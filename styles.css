@@ -1,0 +1,59 @@
+.rotate90 {
+    -webkit-transform:rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    transform: rotate(90deg);
+  }
+
+  body{
+      background-color: lightblue;
+  }
+
+  h1{
+      background-color: darkblue;
+      color: yellow;
+      margin-right: 400px;
+      margin-left: 400px;
+      text-align: center;
+      font-family: cursive;
+      font-size: 75px;
+  }
+
+  h2{
+      font-size: 30px;
+      margin-bottom: 10px;
+  }
+
+  #categories{
+      font-size: 20px;
+      margin-top: 10px;
+  }
+
+  #topic{
+      background-color: blue;
+      margin-right: 1000px;
+  }
+
+  #topic1{
+      background-color: green;
+      margin-right: 1000px;
+  }
+
+  #section{
+      font-size: 60px;
+      background-color: darkgreen;
+      color: lightblue;
+  }
+
+  p{
+      margin-top: 10px;
+      margin-bottom: 20px;
+      margin-left: 10px;
+      margin-right: 100px;
+  }
+
+  ul{
+      background-color: red;
+      margin-right: 500px;
+  }
